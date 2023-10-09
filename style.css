@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+p {
+    font-size: 30px;
+    color: #333;
+}
+
+table {
+    margin: auto;
+    border: 2px solid black;
+}
+
+table td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+table td:hover {
+    background: #777;
+    color: white;
+}
+
+
+
