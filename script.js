@@ -40,5 +40,6 @@ function checkNumber(number) {
     }
 }
 
+
 // Запускаємо гру після завантаження сторінки
 window.addEventListener("load", generateNumbers);
